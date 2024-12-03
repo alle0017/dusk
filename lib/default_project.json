@@ -1,0 +1,18 @@
+[
+      {
+            "path": "entities",
+            "children": []
+      },
+      {
+            "path": "scenes",
+            "children": []
+      },
+      {
+            "path": "maps",
+            "children": []
+      },
+      {
+            "path": "scene_entities",
+            "children": []
+      }
+]

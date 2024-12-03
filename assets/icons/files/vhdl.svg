@@ -1,0 +1,20 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="16" y="17" width="31" height="30" rx="4" stroke="#CA9400" stroke-width="2"/>
+<rect x="20" y="21" width="23" height="22" rx="4" stroke="#CA9400" stroke-width="2"/>
+<line x1="22.5" y1="12.5" x2="22.5" y2="3.5" stroke="#CA9400" stroke-width="3" stroke-linecap="round"/>
+<line x1="28.5" y1="12.5" x2="28.5" y2="3.5" stroke="#CA9400" stroke-width="3" stroke-linecap="round"/>
+<line x1="34.5" y1="12.5" x2="34.5" y2="3.5" stroke="#CA9400" stroke-width="3" stroke-linecap="round"/>
+<line x1="40.5" y1="12.5" x2="40.5" y2="3.5" stroke="#CA9400" stroke-width="3" stroke-linecap="round"/>
+<path d="M22.5 60.5V51.5" stroke="#CA9400" stroke-width="3" stroke-linecap="round"/>
+<line x1="28.5" y1="60.5" x2="28.5" y2="51.5" stroke="#CA9400" stroke-width="3" stroke-linecap="round"/>
+<line x1="34.5" y1="60.5" x2="34.5" y2="51.5" stroke="#CA9400" stroke-width="3" stroke-linecap="round"/>
+<line x1="40.5" y1="60.5" x2="40.5" y2="51.5" stroke="#CA9400" stroke-width="3" stroke-linecap="round"/>
+<path d="M51.5 40.5H60.5" stroke="#CA9400" stroke-width="3" stroke-linecap="round"/>
+<line x1="1.5" y1="-1.5" x2="10.5" y2="-1.5" transform="matrix(1 0 0 -1 50 33)" stroke="#CA9400" stroke-width="3" stroke-linecap="round"/>
+<line x1="1.5" y1="-1.5" x2="10.5" y2="-1.5" transform="matrix(1 0 0 -1 50 27)" stroke="#CA9400" stroke-width="3" stroke-linecap="round"/>
+<line x1="1.5" y1="-1.5" x2="10.5" y2="-1.5" transform="matrix(1 0 0 -1 50 21)" stroke="#CA9400" stroke-width="3" stroke-linecap="round"/>
+<path d="M2.5 40.5H11.5" stroke="#CA9400" stroke-width="3" stroke-linecap="round"/>
+<line x1="1.5" y1="-1.5" x2="10.5" y2="-1.5" transform="matrix(1 0 0 -1 1 33)" stroke="#CA9400" stroke-width="3" stroke-linecap="round"/>
+<line x1="1.5" y1="-1.5" x2="10.5" y2="-1.5" transform="matrix(1 0 0 -1 1 27)" stroke="#CA9400" stroke-width="3" stroke-linecap="round"/>
+<line x1="1.5" y1="-1.5" x2="10.5" y2="-1.5" transform="matrix(1 0 0 -1 1 21)" stroke="#CA9400" stroke-width="3" stroke-linecap="round"/>
+</svg>

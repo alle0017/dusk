@@ -1,0 +1,9 @@
+:root {
+      --primary-color: #1e1e1e;
+      --secondary-color: #131313;
+}
+
+* {
+      background-color: var(--primary-color);
+      color: rgba(255, 255, 255);
+}

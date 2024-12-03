@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  },
+  "dependencies": {
+    "gloomjs": "^1.0.4",
+    "monaco-editor": "^0.52.0"
+  }
+}

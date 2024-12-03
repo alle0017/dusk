@@ -1,0 +1,54 @@
+{
+      "basePathFile": "assets/icons/files/",
+      "basePathDir": "assets/icons/directories/",
+
+      "ext": {
+            ".vue": "vue.svg",
+            ".js": "javascript.svg",
+            ".cjs": "javascript.svg",
+            ".ts": "typescript.svg",
+            ".cts": "typescript.svg",
+            ".config.ts": "typescript.svg",
+
+
+            ".d.ts": "typescript-def.svg",
+            ".txt": "file.svg",
+            ".rs": "rust.svg",
+            ".c": "c.svg",
+            ".cpp": "cpp.svg",
+            ".cs": "csharp.svg",
+            ".hpp": "h.svg",
+            ".h": "h.svg",
+            ".htm": "html.svg",
+            ".html": "html.svg",
+            ".xml": "html.svg",
+            ".plist": "html.svg",
+            ".json": "json.svg",
+            ".xaml": "html.svg",
+            ".toml": "toml.svg",
+            ".wgsl": "wgpu.svg",
+            ".vhd": "vhdl.svg",
+            ".config.json": "json.svg",
+            ".conf.json": "json.svg",
+            ".md": "markdown.svg",
+            ".mdx": "markdown.svg"
+      },
+
+
+
+      "files": {
+            "vite.config.js": "vite.svg",
+            "vite.config.ts": "vite.svg"
+      },
+      "directories": {
+            "entities": "entity.svg",
+            "scenes": "scene.svg",
+            "maps": "map.svg",
+            "scene_entities": "scene_obj.svg"
+      },
+
+      "dir": "folder.svg",
+      "newdir": "new_folder.svg",
+      "newfile": "new_file.svg",
+      "styles": "img { filter: grayscale(100%); } @media(prefers-color-scheme: dark){ img { filter: grayscale(100%) invert(90%); } }"
+}
